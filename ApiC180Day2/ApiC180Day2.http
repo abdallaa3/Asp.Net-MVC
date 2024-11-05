@@ -1,0 +1,6 @@
+@ApiC180Day2_HostAddress = http://localhost:5147
+
+GET {{ApiC180Day2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
